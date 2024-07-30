@@ -14,7 +14,14 @@
         },
         {
           "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/PageThree.md",
-            "Order": 3
+            "Order": 3,
+            "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": [ "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Inlinequestion/Question3.md" ],
+            "UnlockCriteria": "Answered"
+          }
+        ]
         },
         {
           "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/PageFour.md",
