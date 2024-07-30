@@ -50,4 +50,4 @@ Select * from mydb.employee;
 ```
 ![img](screenshots/th16.png)
 
-<question source ="https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Interns-Lab-Onboarding-Raghavendra_Prasad_K/Question1.md" />
+<question source ="https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/Question1.md" />
