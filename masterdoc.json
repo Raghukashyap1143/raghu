@@ -25,7 +25,7 @@
               "DependentQuestions": [
                   "https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/Question1.md"
                   ],
-              "UnlockCriteria": "AnsweredCorrectly"
+              "UnlockCriteria": "Answered"
             }
           ]
         },
@@ -38,7 +38,7 @@
               "DependentQuestions": [
                   "https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/Question2.md"
                   ],
-              "UnlockCriteria": "AnsweredCorrectly"
+              "UnlockCriteria": "Answered"
             }
           ]
         },
