@@ -22,7 +22,7 @@
             {
               "UnlockDependency": "Questions",
               "DependentQuestions": [
-                  "https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/Question1.md"
+                  "https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/Question/Page1/Question1.md"
                   ],
               "UnlockCriteria": "Answered"
             }
@@ -35,7 +35,7 @@
             {
               "UnlockDependency": "Questions",
               "DependentQuestions": [
-                  "https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/Question2.md"
+                  "https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/Question/Page1/Question2.md"
                   ],
               "UnlockCriteria": "Answered"
             }
