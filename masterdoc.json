@@ -25,7 +25,14 @@
         },
         {
           "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/PageFour.md",
-            "Order": 4
+            "Order": 4,
+            "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": [ "https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/Question2.md" ],
+            "UnlockCriteria": "Answered"
+          }
+        ]
         },
         {
           "RawFilePath": "https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/PageFive.md",
