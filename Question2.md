@@ -1,29 +1,19 @@
-## Metadata
-Question Type : Single Choice
+## MetaData
+Question Type : Multiple Choice 
+Max Answers : 2
 
 ## Question
-What type of data replication can AWS Database Migration Service (DMS) perform?:
+Which of the following is example of Cloud Platform (Select Multiple)
+
+## Note
+Each correct answer carries 1 mark
+
 ## Options
-Option 1: Full load only
-
-Option 2: Incremental replication only
-
-Option 3: Both full load and continuous replication
-
-Option 4: Schema conversion only
+Option 1 : Microsoft Azure
+Option 2 : Digital Ocean
+Option 3 : Google Duo
+Option 4 : Amazon Shield
 
 ## Answers
-Option 3 : 1
-
-## Correct Answer Feedback
-Option 3 is correct answer
-
-## Incorrect Answer Feedback
-Selected ## Options is not correct Option 3 is correct answer
-
-## Tags
-tag1
-tag2
-
-## Number of Retries
-2
+Option 1 : 1
+Option 2 : 1
