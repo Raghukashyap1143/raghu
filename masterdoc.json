@@ -19,7 +19,7 @@
             {
               "UnlockDependency": "Questions",
               "DependentQuestions": [
-                  "https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/Question1.md"
+                  "https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/pagequestion3.md"
                   ],
               "UnlockCriteria": "AnsweredCorrectly"
             }
