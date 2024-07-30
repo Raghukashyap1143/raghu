@@ -47,3 +47,5 @@ Select * from mydb.employee;
 You should receive a message showing that mydb.employee does not exist.
 
 ![img](screenshots/fo27.png)
+
+<question source ="https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/Question2.md" />
