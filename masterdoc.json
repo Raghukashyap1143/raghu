@@ -18,7 +18,7 @@
             "UnlockingRules": [
           {
             "UnlockDependency": "Questions",
-            "DependentQuestions": [ "https://raw.githubusercontent.com/Raghukashyap1143/Spektra/main/Inlinequestion/Question3.md" ],
+            "DependentQuestions": [ "https://raw.githubusercontent.com/Raghukashyap1143/raghu/main/Question1.md" ],
             "UnlockCriteria": "Answered"
           }
         ]
